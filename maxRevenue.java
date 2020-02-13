@@ -1,7 +1,5 @@
 import java.io.*;
 import java.util.TreeSet;
-import java.util.*;
-import java.util.Collections.*;
 
 public class maxRevenue {
 	public static void main(String[] args) {
